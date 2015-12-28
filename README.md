@@ -35,5 +35,5 @@ var task = time_task.init(function () {
     if (num==0) {
         task.stop();
     }
-}).start(1000);;
+}).start(1000);
 ```
