@@ -1,0 +1,24 @@
+{
+  "name": "leedian-fm2-timer-task",
+  "version": "1.0.0",
+  "description": "timer task leedian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cainmaila/leedian-fm2-timer-task.git"
+  },
+  "keywords": [
+    "timer",
+    "task",
+    "leesian"
+  ],
+  "author": "cain.chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cainmaila/leedian-fm2-timer-task/issues"
+  },
+  "homepage": "https://github.com/cainmaila/leedian-fm2-timer-task#readme"
+}
